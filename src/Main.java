@@ -16,7 +16,6 @@ public class Main {
 
         //getting user input
         while (startTime == null) {
-
             System.out.println("Enter start time in the format hours:minutes:seconds (e.g. 12:20:50)");
             String firstInput = sc.nextLine();
 
